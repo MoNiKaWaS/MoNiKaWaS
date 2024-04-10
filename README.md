@@ -1,8 +1,8 @@
-👋 Hi, I’m @MoNiKaWaS
-👀 I’m interested in software testing 
-📫 How to reach me monikawasowicz21@wp.pl
-⚡ Fun fact: "Mom" of two cats
-🤩 Hobbies: running, gardening
+- 👋 Hi, I’m @MoNiKaWaS
+- 👀 I’m interested in software testing 
+- 📫 How to reach me monikawasowicz21@wp.pl
+- ⚡ Fun fact: "Mom" of two cats
+- 🤩 Hobbies: running, gardening
 
 As a newly trained software tester, I am thrilled about the endless possibilities that come with my newfound knowledge. With the skills I've acquired, I am confident in my ability to deliver quality results and provide valuable contributions to any project. I invite you to familiarize yourself with the 'Wallet' project, which concludes the course.
 
