@@ -8,7 +8,7 @@ As a newly trained software tester, I am thrilled about the endless possibilitie
 
 You can find me on LinkedIn www.linkedin.com/in/monika-wasowicz
 
-- Coming to my Tech Skills:
+Coming to my Tech Skills:
 
 - Manual testing,
 
