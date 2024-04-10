@@ -32,9 +32,9 @@ You can find me on LinkedIn www.linkedin.com/in/monika-wasowicz
 
 - Jira
 
-Trello
+- Trello
 
-Black and White-Box Testing
+- Black and White-Box Testing
 
 
 <!---
